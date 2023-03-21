@@ -9,7 +9,7 @@
 ## About The Project
 
 <p> 
-  Esse é um projeto desenvolvido com React.js em que construímos um um jogo no estilo Super Trunfo! Ao utilizar essa aplicação uma pessoa usuária deverá ser capaz de:
+  Esse é um projeto desenvolvido com React.js em que construímos um jogo no estilo Super Trunfo! Ao utilizar essa aplicação uma pessoa usuária deverá ser capaz de:
 
 Criar um baralho com o tema livre;
 
